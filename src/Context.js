@@ -5,7 +5,7 @@ const Provider = ({ children }) => {
   const [isAuth, setIsAuth] = useState(false);
   const value = {
     isAuth,
-    activate: () => {
+    activateAuth: () => {
       setIsAuth(true);
     },
   };
