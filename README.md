@@ -1,3 +1,3 @@
-# curso-platzi-react-avanzado ⚛️
+# Clon de instagram orientado a animales
 
-Youtube del profesor = https://www.youtube.com/midudev
+React.js
